@@ -1,3 +1,3 @@
 print('hello world')
 
-print(dict[1])
+# print(dict[1])
